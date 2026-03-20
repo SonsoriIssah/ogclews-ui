@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+_chart_macro.html
+_chart_clews.html
+_chart_scores.html
+test_chart.html
+plotly.min.js
+*.pytree

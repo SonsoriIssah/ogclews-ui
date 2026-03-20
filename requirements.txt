@@ -1,0 +1,9 @@
+```
+
+Then open `requirements.txt` and paste:
+```
+PyQt5==5.15.11
+PyQtWebEngine==5.15.7
+plotly==6.6.0
+pandas==3.0.1
+numpy==2.4.3
